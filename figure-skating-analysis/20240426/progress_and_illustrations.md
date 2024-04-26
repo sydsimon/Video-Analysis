@@ -10,6 +10,8 @@ We randomly select 33 videos from each action classification in the dataset, eva
 
 "video. csv"
 
+#This result is from the old model#
+
 Action prediction accuracy: 97.98%
 Average score difference (taking the average absolute value): 0.59
 Maximum score difference: 3.18
